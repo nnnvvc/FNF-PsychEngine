@@ -1,22 +1,59 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "Trojan",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"spooky",
+		"senpai",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Crisis",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Hemlocked",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"System-Overload",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Oblivion",
+			"spirit-pixel-angry",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Trojan",
+	"hiddenUntilUnlocked": false
 }
