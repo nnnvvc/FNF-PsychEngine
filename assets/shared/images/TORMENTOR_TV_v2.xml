@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TORMENTOR_TV_v2.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tormentor Static instance 10000" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10001" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10002" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10003" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10004" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10005" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10006" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10007" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10008" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10009" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10010" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10011" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10012" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10013" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10014" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10015" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10016" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10017" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10018" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10019" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10020" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10021" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10022" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10023" x="0" y="0" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10024" x="0" y="410" width="580" height="410"/>
+	<SubTexture name="Tormentor Static instance 10025" x="0" y="410" width="580" height="410"/>
+</TextureAtlas>
