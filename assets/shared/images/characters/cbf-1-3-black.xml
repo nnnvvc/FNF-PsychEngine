@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cbf-1-3-black.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance0000" x="60" y="60" width="411" height="416"/>
+	<SubTexture name="BF idle dance0001" x="531" y="60" width="411" height="416"/>
+	<SubTexture name="BF idle dance0002" x="1002" y="60" width="411" height="416"/>
+	<SubTexture name="BF idle dance0003" x="1473" y="60" width="411" height="416"/>
+	<SubTexture name="BF idle dance0004" x="60" y="536" width="411" height="416"/>
+	<SubTexture name="BF idle dance0005" x="531" y="536" width="411" height="416"/>
+	<SubTexture name="BF idle dance0006" x="1002" y="536" width="411" height="416"/>
+	<SubTexture name="BF idle dance0007" x="1473" y="536" width="411" height="416"/>
+	<SubTexture name="BF idle dance0008" x="60" y="1012" width="411" height="416"/>
+	<SubTexture name="BF idle dance0009" x="531" y="1012" width="411" height="416"/>
+	<SubTexture name="BF idle dance0010" x="1002" y="1012" width="411" height="416"/>
+	<SubTexture name="BF idle dance0011" x="60" y="1012" width="411" height="416"/>
+	<SubTexture name="BF idle dance0012" x="531" y="1012" width="411" height="416"/>
+	<SubTexture name="BF idle dance0013" x="1002" y="1012" width="411" height="416"/>
+</TextureAtlas>
