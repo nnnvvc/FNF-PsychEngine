@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NeneIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NeneDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NeneLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NeneRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NeneUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "picoweek/chars/cnene-1-3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico NoSquish0",
+			"indices": [
+				14,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "unsquish",
+			"fps": 24,
+			"name": "Pico NoSquish0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-150
+			],
+			"anim": "squish",
+			"fps": 24,
+			"name": "Pico Squish0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "GOOB/PICOSQUISH",
+	"position": [
+		0,
+		-1020
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-313,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-315,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hit",
+			"loop": false,
+			"name": "Bullet"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "tankguy/chars/LimoBF",
+	"position": [
+		-100,
+		230
+	],
+	"healthicon": "cbf-insane",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

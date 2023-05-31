@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Chara idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chara Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chara Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chara Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				712,
+				221
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Chara Attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Chara Rigth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "badtime2009/chars/chara isan coupon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chara1",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		32,
+		58
+	],
+	"camera_position": [
+		500,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

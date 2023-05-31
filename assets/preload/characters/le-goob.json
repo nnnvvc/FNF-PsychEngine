@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-75
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Le idle0"
+		},
+		{
+			"offsets": [
+				0,
+				-37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "stare",
+			"indices": [],
+			"name": "Le stare0"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "car",
+			"indices": [],
+			"name": "Le car0"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wake up",
+			"indices": [],
+			"name": "Le wake up0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "mimimi",
+			"indices": [],
+			"name": "Le mimimi0"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "caridle",
+			"indices": [],
+			"name": "Le car0029"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-41
+			],
+			"anim": "wake upidle",
+			"fps": 24,
+			"name": "Le wake up0029",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "GOOB/LEGOOB",
+	"position": [
+		-180,
+		70
+	],
+	"healthicon": "goob",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

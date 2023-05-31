@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-283,
+				9
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-305,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-272,
+				-67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-174,
+				104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-200,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "angy",
+			"loop": false,
+			"name": "Grrr angy angy"
+		},
+		{
+			"offsets": [
+				-264,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "really",
+			"loop": false,
+			"name": "Now really"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "GOOB/MADBOYFRIEND",
+	"position": [
+		-100,
+		350
+	],
+	"healthicon": "cbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
