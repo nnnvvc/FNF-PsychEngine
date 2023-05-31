@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico-1-3-black.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Idle Dance0000" x="60" y="60" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0001" x="60" y="60" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0002" x="510" y="60" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0003" x="510" y="60" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0004" x="960" y="60" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0005" x="1410" y="60" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0006" x="60" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0007" x="510" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0008" x="960" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0009" x="960" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0010" x="960" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0011" x="960" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0012" x="960" y="605" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0013" x="960" y="605" width="390" height="485"/>
+</TextureAtlas>

@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico-1-2-angry.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Down Note0000" x="0" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0001" x="0" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0002" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0003" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0004" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0005" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0006" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0007" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0008" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0009" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Down Note0010" x="602" y="0" width="602" height="418"/>
+	<SubTexture name="Pico Idle Dance0000" x="1204" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0001" x="1204" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0002" x="1594" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0003" x="1594" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0004" x="1984" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0005" x="1984" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0006" x="2374" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0007" x="2764" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0008" x="3154" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0009" x="3154" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0010" x="3154" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0011" x="3154" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0012" x="3154" y="0" width="390" height="485"/>
+	<SubTexture name="Pico Idle Dance0013" x="3154" y="0" width="390" height="485"/>
+	<SubTexture name="Pico NOTE LEFT0000" x="3544" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0001" x="3544" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0002" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0003" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0004" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0005" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0006" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0007" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0008" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0009" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0010" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0011" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0012" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0013" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0014" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0015" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico NOTE LEFT0016" x="3938" y="0" width="394" height="473"/>
+	<SubTexture name="Pico Note Right0000" x="4332" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0001" x="4332" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0002" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0003" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0004" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0005" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0006" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0007" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0008" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0009" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0010" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0011" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0012" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0013" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0014" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0015" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Note Right0016" x="4736" y="0" width="404" height="481"/>
+	<SubTexture name="Pico Shooting0000" x="5140" y="0" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0001" x="5932" y="0" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0002" x="6724" y="0" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0003" x="6724" y="0" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0004" x="0" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0005" x="792" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0006" x="1584" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0007" x="1584" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0008" x="2376" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0009" x="2376" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0010" x="2376" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0011" x="2376" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0012" x="2376" y="548" width="792" height="548"/>
+	<SubTexture name="Pico Shooting0013" x="2376" y="548" width="792" height="548"/>
+	<SubTexture name="chain0000" x="3168" y="548" width="511" height="598"/>
+	<SubTexture name="chain0001" x="3168" y="548" width="511" height="598"/>
+	<SubTexture name="chain0002" x="3679" y="548" width="511" height="598"/>
+	<SubTexture name="chain0003" x="3679" y="548" width="511" height="598"/>
+	<SubTexture name="chain0004" x="4190" y="548" width="511" height="598"/>
+	<SubTexture name="chain0005" x="4190" y="548" width="511" height="598"/>
+	<SubTexture name="chain0006" x="4701" y="548" width="511" height="598"/>
+	<SubTexture name="chain0007" x="5212" y="548" width="511" height="598"/>
+	<SubTexture name="chain0008" x="5723" y="548" width="511" height="598"/>
+	<SubTexture name="chain0009" x="5723" y="548" width="511" height="598"/>
+	<SubTexture name="chain0010" x="6234" y="548" width="511" height="598"/>
+	<SubTexture name="chain0011" x="6234" y="548" width="511" height="598"/>
+	<SubTexture name="chain0012" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0013" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0014" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0015" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0016" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0017" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0018" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0019" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0020" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0021" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0022" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0023" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0024" x="0" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0025" x="0" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0026" x="511" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0027" x="511" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0028" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0029" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0030" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0031" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0032" x="0" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0033" x="0" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0034" x="511" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0035" x="511" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0036" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0037" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0038" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0039" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0040" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0041" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0042" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0043" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0044" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0045" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0046" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0047" x="7256" y="548" width="511" height="598"/>
+	<SubTexture name="chain0048" x="6745" y="548" width="511" height="598"/>
+	<SubTexture name="chain0049" x="1022" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0050" x="1533" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0051" x="2044" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0052" x="2044" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0053" x="2555" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0054" x="2555" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0055" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0056" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0057" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0058" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0059" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0060" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0061" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0062" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0063" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0064" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0065" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0066" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0067" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0068" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0069" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0070" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0071" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0072" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0073" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0074" x="3577" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0075" x="3066" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0076" x="4088" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0077" x="4599" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0078" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0079" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0080" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0081" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0082" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0083" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0084" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0085" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0086" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0087" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0088" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0089" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0090" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0091" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0092" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0093" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0094" x="5110" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0095" x="5621" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0096" x="6132" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0097" x="6132" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0098" x="6643" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0099" x="6643" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0100" x="6643" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0101" x="7154" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0102" x="7154" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0103" x="7665" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0104" x="7665" y="1146" width="511" height="598"/>
+	<SubTexture name="chain0105" x="0" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0106" x="0" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0107" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0108" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0109" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0110" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0111" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0112" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0113" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0114" x="1022" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0115" x="1022" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0116" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0117" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0118" x="1022" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0119" x="1022" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0120" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0121" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0122" x="1022" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0123" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0124" x="511" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0125" x="1022" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0126" x="1533" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0127" x="2044" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0128" x="2555" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0129" x="3066" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0130" x="3577" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0131" x="3577" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0132" x="4088" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0133" x="4088" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0134" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0135" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0136" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0137" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0138" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0139" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0140" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0141" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0142" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0143" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0144" x="4599" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0145" x="5110" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0146" x="5621" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0147" x="6132" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0148" x="6132" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0149" x="6643" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0150" x="6643" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0151" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0152" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0153" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0154" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0155" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0156" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0157" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0158" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0159" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0160" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0161" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0162" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0163" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="chain0164" x="7154" y="1744" width="511" height="598"/>
+	<SubTexture name="pico Up note0000" x="7665" y="1744" width="377" height="501"/>
+	<SubTexture name="pico Up note0001" x="7665" y="1744" width="377" height="501"/>
+	<SubTexture name="pico Up note0002" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0003" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0004" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0005" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0006" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0007" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0008" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0009" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0010" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0011" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0012" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="pico Up note0013" x="0" y="2342" width="377" height="501"/>
+	<SubTexture name="reload0000" x="377" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0001" x="377" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0002" x="755" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0003" x="755" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0004" x="755" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0005" x="1133" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0006" x="1133" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0007" x="1133" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0008" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0009" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0010" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0011" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0012" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0013" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0014" x="1511" y="2342" width="378" height="486"/>
+	<SubTexture name="reload0015" x="1511" y="2342" width="378" height="486"/>
+</TextureAtlas>
